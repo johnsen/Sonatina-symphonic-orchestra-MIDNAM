@@ -1,0 +1,2 @@
+ADD MIDI_INSTRUMENT_MAP 'oboes'
+MAP MIDI_INSTRUMENT NON_MODAL 20 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Woodwinds\x20-\x20Oboes\x20Sustain.sfz' 0 1.0 ON_DEMAND_HOLD 'Woodwinds - Oboes Sustain'

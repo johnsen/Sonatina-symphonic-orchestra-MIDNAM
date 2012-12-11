@@ -1,0 +1,2 @@
+ADD MIDI_INSTRUMENT_MAP 'altoflute'
+MAP MIDI_INSTRUMENT NON_MODAL 2 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Woodwinds\x20-\x20Alto\x20Flute\x20Solo.sfz' 0 1.0 ON_DEMAND_HOLD 'Woodwinds - Alto Flute Solo'
