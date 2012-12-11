@@ -1,0 +1,1877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Derick</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Rosegarden</Manufacturer>
+    <Model>sonatina</Model>
+    <CustomDeviceMode Name="1stviolins-sonati">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="2" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="3" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="4" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="5" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="6" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="7" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="8" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="9" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="10" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="11" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="12" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="13" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="14" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="15" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="16" NameSet="1stviolins-sonati"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="1stviolins-sonati">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Strings_-_1st_Violins_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_1st_Violins_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_1st_Violins_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_1st_Violins_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_1st_Violins_Pizzicato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_1st_Violins_Pizzicato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="2ndviolins-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="2ndviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="2ndviolins-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="2ndviolins-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Strings_-_2nd_Violins_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_2nd_Violins_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_2nd_Violins_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_2nd_Violins_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_2nd_Violins_Pizzicato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_2nd_Violins_Pizzicato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="altoflute-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="altoflute-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="altoflute-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="altoflute-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Alto_Flute_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Alto_Flute_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="bassclarinet-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="bassclarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="bassclarinet-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="bassclarinet-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Bass_Clarinet_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Bass_Clarinet_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="basses-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="basses-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="basses-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="basses-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Strings_-_Basses_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Basses_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_Basses_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Basses_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_Basses_Pizzicato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Basses_Pizzicato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="bassoon-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="bassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="bassoon-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="bassoon-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Bassoon_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Bassoon_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="bassoons-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="bassoons-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="bassoons-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="bassoons-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Bassoons_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Bassoons_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="basstrombone-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="basstrombone-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="basstrombone-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="basstrombone-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Brass_-_Bass_Trombone_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Bass_Trombone_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="cellos-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="cellos-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="cellos-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="cellos-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Strings_-_Celli_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Celli_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_Celli_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Celli_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_Celli_Pizzicato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Celli_Pizzicato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="choirs-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="choirs-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="choirs-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="choirs-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Chorus_-_Male">
+        <PatchNameList>
+          <Patch Number="0" Name="Chorus_-_Male">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Chorus_-_Female">
+        <PatchNameList>
+          <Patch Number="0" Name="Chorus_-_Female">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Chorus_-_Mixed">
+        <PatchNameList>
+          <Patch Number="0" Name="Chorus_-_Mixed">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="clarinet-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="clarinet-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="clarinet-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="clarinet-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Clarinet_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Clarinet_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="clarinets-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="clarinets-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="clarinets-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="clarinets-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Clarinets_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Clarinets_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="contrabassoon-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="contrabassoon-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="contrabassoon-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="contrabassoon-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Contrabassoon_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Contrabassoon_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="coranglais-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="coranglais-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="coranglais-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="coranglais-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Cor_Anglais_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Cor_Anglais_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="flute-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="flute-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="flute-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="flute-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Flute_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Flute_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="flutes-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="flutes-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="flutes-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="flutes-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Flutes_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Flutes_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Woodwinds_-_Flutes_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Flutes_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="harp-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="harp-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="harp-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="harp-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Concert_Harp">
+        <PatchNameList>
+          <Patch Number="0" Name="Concert_Harp">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="horn-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="horn-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="horn-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="horn-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Brass_-_Horn_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Horn_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="horns-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="horns-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="horns-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="horns-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Brass_-_Trombones_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Trombones_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Brass_-_Horns_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Horns_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="oboe-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="oboe-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="oboe-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="oboe-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Oboe_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Oboe_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="oboes-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="oboes-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="oboes-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="oboes-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Oboes_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Oboes_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="percussion-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="percussion-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="percussion-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="percussion-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Percussion_-_All_Percussion">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_All_Percussion">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Timpani">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Timpani">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Bass_Drum_&amp;_Snare">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Bass_Drum_&amp;_Snare">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Cymbals_&amp;_Tamtam">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Cymbals_&amp;_Tamtam">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Triangle">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Triangle">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="4"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Chimes">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Chimes">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="5"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Conga">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Conga">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="6"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Glockenspiel">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Glockenspiel">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="7"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Xylophone">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Xylophone">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="8"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Percussion_-_Various">
+        <PatchNameList>
+          <Patch Number="0" Name="Percussion_-_Various">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="9"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="piano-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="piano-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="piano-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="piano-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Keys_-_Grand_Piano">
+        <PatchNameList>
+          <Patch Number="0" Name="Keys_-_Grand_Piano">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="piccolo-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="piccolo-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="piccolo-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="piccolo-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Woodwinds_-_Piccolo_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Woodwinds_-_Piccolo_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="solostrings-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="solostrings-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="solostrings-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="solostrings-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Strings_-_Violin_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Violin_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_Cello_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Cello_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="trombone-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="trombone-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="trombone-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="trombone-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Brass_-_Tenor_Trombone_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Tenor_Trombone_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="trombones-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="trombones-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="trombones-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="trombones-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Brass_-_Trombones_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Trombones_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Brass_-_Trombones_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Trombones_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="trumpet-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="trumpet-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="trumpet-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="trumpet-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Brass_-_Trumpet_Solo">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Trumpet_Solo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="trumpets-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="trumpets-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="trumpets-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="trumpets-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Brass_-_Trumpets_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Trumpets_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Brass_-_Trumpets_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Trumpets_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="tuba-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="tuba-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="tuba-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="tuba-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Brass_-_Tuba_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Tuba_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Brass_-_Tuba_Staccato">
+        <PatchNameList>
+          <Patch Number="0" Name="Brass_-_Tuba_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <CustomDeviceMode Name="violas-sonatina">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="violas-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="violas-sonatina"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="violas-sonatina">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Strings_-_Violas_Sustain">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Violas_Sustain">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Strings_-_Violas_Pizzicato">
+        <PatchNameList>
+          <Patch Number="0" Name="Strings_-_Violas_Pizzicato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+
+  </MasterDeviceNames>
+</MIDINameDocument>
