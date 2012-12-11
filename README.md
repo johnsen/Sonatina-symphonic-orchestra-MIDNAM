@@ -1,8 +1,8 @@
 MIDNAM files for the Sonatina Symphonic Orchestra
 http://sso.mattiaswestlund.net/
 
-Made for a project with Ardour 3 and LinuxSampler on GNU/Linux, using these scripts to generate the MIDNAM files
-https://github.com/johnsen/lscp2midnam
+Made for a project with Ardour 3 and LinuxSampler on GNU/Linux, using these scripts from the OpenOctave team (http://www.openoctave.org/) to generate the MIDNAM files
+https://github.com/johnsen/lscp2midnam 
 
 
 * You need the Sonatina SFZ library
@@ -16,6 +16,9 @@ http://sourceforge.net/projects/openoctave/files/libraries/
 
 * Load the complete lscp file: 
 cat Sonatina_0.1D.lscp | nc localhost 8888 &
+
+
+
 
 
 
