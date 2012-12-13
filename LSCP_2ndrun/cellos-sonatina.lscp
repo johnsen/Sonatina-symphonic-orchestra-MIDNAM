@@ -1,0 +1,4 @@
+ADD MIDI_INSTRUMENT_MAP 'cellos'
+MAP MIDI_INSTRUMENT NON_MODAL 8 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x20Celli\x20Sustain.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - Celli Sustain'
+MAP MIDI_INSTRUMENT NON_MODAL 8 1 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x20Celli\x20Staccato.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - Celli Staccato'
+MAP MIDI_INSTRUMENT NON_MODAL 8 2 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x20Celli\x20Pizzicato.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - Celli Pizzicato'
