@@ -1,0 +1,3 @@
+ADD MIDI_INSTRUMENT_MAP 'trumpets'
+MAP MIDI_INSTRUMENT NON_MODAL 28 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Brass\x20-\x20Trumpets\x20Sustain.sfz' 0 1.0 ON_DEMAND_HOLD 'Brass - Trumpets Sustain'
+MAP MIDI_INSTRUMENT NON_MODAL 28 1 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Brass\x20-\x20Trumpets\x20Staccato.sfz' 0 1.0 ON_DEMAND_HOLD 'Brass - Trumpets Staccato'

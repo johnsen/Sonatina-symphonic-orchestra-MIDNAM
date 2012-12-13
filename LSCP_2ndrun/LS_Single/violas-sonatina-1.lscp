@@ -1,0 +1,3 @@
+ADD MIDI_INSTRUMENT_MAP 'violas-1'
+MAP MIDI_INSTRUMENT NON_MODAL 30 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x20Violas\x20Sustain.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - Violas Sustain'
+MAP MIDI_INSTRUMENT NON_MODAL 30 1 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x20Violas\x20Pizzicato.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - Violas Pizzicato'

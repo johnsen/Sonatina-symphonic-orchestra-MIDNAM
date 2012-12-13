@@ -1,0 +1,3 @@
+ADD MIDI_INSTRUMENT_MAP 'solostrings'
+MAP MIDI_INSTRUMENT NON_MODAL 24 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x20Violin\x20Solo.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - Violin Solo'
+MAP MIDI_INSTRUMENT NON_MODAL 24 1 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x20Cello\x20Solo.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - Cello Solo'
