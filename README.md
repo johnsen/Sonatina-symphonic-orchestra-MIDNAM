@@ -31,6 +31,9 @@ go into each file and edit the midi map name to reflect the name you want your p
 See the LSCP_2ndrun for an example, violas in this case. And the file sonita-extended-example1.lscp as endresult of
 this example.
 
+I've called it 2ndrun, cause you don't want to copied viola to be in the midnam file. So I run it first without the
+copied viola file (to generate the midnam) and then with, to generate the lscp file I like to use in LinuxSampler.
+
 Good luck and please share your enchancements and templates! 
 
 
