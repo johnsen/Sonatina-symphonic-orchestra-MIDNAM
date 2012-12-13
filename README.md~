@@ -26,8 +26,6 @@ http://en.wikipedia.org/wiki/Orchestra
 See https://github.com/johnsen/Sonatina-symphonic-orchestra-MIDNAM/blob/master/Oomidi_templates/Final_FullOrchestra_example.lscp
 as example (with an other sample set!).
 
-I've added an example which shows how to extend the amount of a certain instrument, in this case the violas. You've to copy the midi ports and audio channels, change the numbering and add channels. See also the 'lscp_extended_diff' file to see what I mean.
-
 Good luck and please share your enchancements and templates! 
 
 
