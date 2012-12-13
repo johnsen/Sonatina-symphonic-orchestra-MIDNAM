@@ -9,6 +9,7 @@ https://github.com/johnsen/lscp2midnam
 http://sourceforge.net/projects/openoctave/files/libraries/
 
 * Place the sonatina.midnam file in ~/.config/ardour3/patchfiles
+(For indididual midnam files see the MIDNAM folder)
 
 * You should adjust the PATH in the Sonatina_0.1D.lscp file, otherwise LinuxSampler can't find your samples
 
