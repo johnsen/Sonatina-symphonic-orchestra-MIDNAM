@@ -28,7 +28,8 @@ https://github.com/johnsen/lscp2midnam
 (Copy for example, 1st Violins to 4 files and rename
 go into each file and edit the midi map name to reflect the name you want your ports to be called.)
 
-
+See the LSCP_2ndrun for an example, violas in this case. And the file sonita-extended-example1.lscp as endresult of
+this example.
 
 Good luck and please share your enchancements and templates! 
 
