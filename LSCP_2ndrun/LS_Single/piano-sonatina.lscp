@@ -1,2 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'piano'
-MAP MIDI_INSTRUMENT NON_MODAL 22 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Keys\x20-\x20Grand\x20Piano.sfz' 0 1.0 ON_DEMAND_HOLD 'Keys - Grand Piano'

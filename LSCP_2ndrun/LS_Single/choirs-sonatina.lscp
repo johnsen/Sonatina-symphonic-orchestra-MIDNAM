@@ -1,4 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'choirs'
-MAP MIDI_INSTRUMENT NON_MODAL 9 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Chorus\x20-\x20Male.sfz' 0 1.0 ON_DEMAND_HOLD 'Chorus - Male'
-MAP MIDI_INSTRUMENT NON_MODAL 9 1 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Chorus\x20-\x20Female.sfz' 0 1.0 ON_DEMAND_HOLD 'Chorus - Female'
-MAP MIDI_INSTRUMENT NON_MODAL 9 2 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Chorus\x20-\x20Mixed.sfz' 0 1.0 ON_DEMAND_HOLD 'Chorus - Mixed'

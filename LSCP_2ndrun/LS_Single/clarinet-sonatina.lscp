@@ -1,2 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'clarinet'
-MAP MIDI_INSTRUMENT NON_MODAL 10 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Woodwinds\x20-\x20Clarinet\x20Solo.sfz' 0 1.0 ON_DEMAND_HOLD 'Woodwinds - Clarinet Solo'

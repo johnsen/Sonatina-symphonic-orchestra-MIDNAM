@@ -1,4 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP '1stviolins'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x201st\x20Violins\x20Sustain.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - 1st Violins Sustain'
-MAP MIDI_INSTRUMENT NON_MODAL 0 1 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x201st\x20Violins\x20Staccato.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - 1st Violins Staccato'
-MAP MIDI_INSTRUMENT NON_MODAL 0 2 0 SFZ '/home/derick/linuxaudio/linuxaudiodata/sonatina/Sonatina\x20Symphonic\x20Orchestra/Strings\x20-\x201st\x20Violins\x20Pizzicato.sfz' 0 1.0 ON_DEMAND_HOLD 'Strings - 1st Violins Pizzicato'
