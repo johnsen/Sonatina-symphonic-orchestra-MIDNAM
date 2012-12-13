@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
 <MIDINameDocument>
-  <Author>Derick</Author>
+  <Author>SSO</Author>
   <MasterDeviceNames>
-    <Manufacturer>Rosegarden</Manufacturer>
-    <Model>sonatina</Model>
-    <CustomDeviceMode Name="1stviolins-sonati">
+    <Manufacturer>SSO</Manufacturer>
+    <Model>SonatinaSymphonicOrchestra</Model>
+    <CustomDeviceMode Name="1stviolins-sonatina">
       <ChannelNameSetAssignments>
-        <ChannelNameSetAssign Channel="1" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="2" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="3" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="4" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="5" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="6" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="7" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="8" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="9" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="10" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="11" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="12" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="13" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="14" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="15" NameSet="1stviolins-sonati"/>
-        <ChannelNameSetAssign Channel="16" NameSet="1stviolins-sonati"/>
+        <ChannelNameSetAssign Channel="1" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="2" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="3" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="4" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="5" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="6" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="7" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="8" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="9" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="10" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="11" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="12" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="13" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="14" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="15" NameSet="1stviolins-sonatina"/>
+        <ChannelNameSetAssign Channel="16" NameSet="1stviolins-sonatina"/>
       </ChannelNameSetAssignments>
     </CustomDeviceMode>
-    <ChannelNameSet Name="1stviolins-sonati">
+    <ChannelNameSet Name="1stviolins-sonatina">
       <AvailableForChannels>
         <AvailableChannel Channel="1" Available="true"/>
         <AvailableChannel Channel="2" Available="true"/>
