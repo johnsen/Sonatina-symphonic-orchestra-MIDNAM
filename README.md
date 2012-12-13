@@ -23,10 +23,12 @@ http://www.openoctave.org/the_composers_toolbox/orchestral_instruments &
 http://sso.mattiaswestlund.net/ & 
 http://en.wikipedia.org/wiki/Orchestra
 
-See https://github.com/johnsen/Sonatina-symphonic-orchestra-MIDNAM/blob/master/Oomidi_templates/Final_FullOrchestra_example.lscp
-as example (with an other sample set!).
+You can use this script to generate the setup you want. 
+https://github.com/johnsen/lscp2midnam
+(Copy for example, 1st Violins to 4 files and rename
+go into each file and edit the midi map name to reflect the name you want your ports to be called.)
 
-I've added an example which shows how to extend the amount of a certain instrument, in this case the violas. You've to copy the midi ports and audio channels, change the numbering and add channels. See also the 'lscp_extended_diff' file to see what I mean.
+
 
 Good luck and please share your enchancements and templates! 
 
